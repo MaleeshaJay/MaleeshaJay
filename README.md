@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maleeshajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maleeshajay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maleesha jayawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maleesha jayawardhana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maleeshajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maleesha jayawardhana" height="30" width="40" /></a>
 <a href="https://fb.com//MaleeshaJayOfficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maleesha jayawardhana" height="30" width="40" /></a>
 <a href="https://instagram.com/maleesha.jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maleesha.jay" height="30" width="40" /></a>
 </p>
