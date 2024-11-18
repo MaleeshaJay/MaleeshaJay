@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Maleesha Jayawardhana</h1>
-<h3 align="center">Driven by Code, Innovation, and Continuous Learning</h3>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Maleesha Jayawardhana</h1>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Driven+by+Code,+Innovation,+and+Continuous+Learning&center=true&width=700&height=45">
+	</a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maleeshajay&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshajay" /> </p>
 
