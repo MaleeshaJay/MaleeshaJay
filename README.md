@@ -14,6 +14,8 @@
 - 📫 How to reach me **maleesha.rjm@gmail.com**
 
 - ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+- ![MaleeshaJay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaJay&theme=tokyonight&layout=compact)
+
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
